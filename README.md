@@ -11,3 +11,4 @@ source git-completion.bash
 cp -rv git-completion.bash /opt/homebrew/etc/bash_completion.d/
 
 # Then check the bash completion
+## Reference: https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash ##
