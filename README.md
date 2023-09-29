@@ -10,4 +10,4 @@ source git-completion.bash
 
 cp -rv git-completion.bash /opt/homebrew/etc/bash_completion.d/
 
-# then check the bash completion
+# Then check the bash completion
